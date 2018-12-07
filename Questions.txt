@@ -1,4 +1,0 @@
-Questions:
-
-- How does the wage of the manager of a firm changes in time with respect to the lowest wage? What is the longitudinal relation between firm size and maximum wage?
-- Can you interpolate this relation to calculate the initial wealth of the owner of the firm?
