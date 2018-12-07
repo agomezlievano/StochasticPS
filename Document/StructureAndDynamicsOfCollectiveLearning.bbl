@@ -1,0 +1,15 @@
+\begin{thebibliography}{2}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Coifman and Lafon(2006)}]{coifman_diffusion_2006}
+Coifman, R.~R., Lafon, S., 2006. Diffusion maps 21~(1), 5--30.
+
+\bibitem[{Lafon and Lee(2006)}]{lafon_diffusion_2006}
+Lafon, S., Lee, A.~B., 2006. Diffusion maps and coarse-graining: A unified
+  framework for dimensionality reduction, graph partitioning, and data set
+  parameterization 28~(9), 1393--1403.
+
+\end{thebibliography}

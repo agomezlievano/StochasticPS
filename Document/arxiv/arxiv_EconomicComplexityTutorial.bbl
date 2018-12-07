@@ -1,0 +1,115 @@
+\begin{thebibliography}{}
+
+\bibitem[Cha, 2007]{cha2007comprehensive}
+Cha, S.-H. (2007).
+\newblock Comprehensive survey on distance/similarity measures between
+  probability density functions.
+\newblock {\em City}, 1(2):1.
+
+\bibitem[Coifman and Hirn, 2014]{coifman_diffusion_2014}
+Coifman, R.~R. and Hirn, M.~J. (2014).
+\newblock Diffusion maps for changing data.
+\newblock {\em Applied and Computational Harmonic Analysis}, 36(1):79--107.
+
+\bibitem[Coifman and Lafon, 2006]{coifman_diffusion_2006}
+Coifman, R.~R. and Lafon, S. (2006).
+\newblock Diffusion maps.
+\newblock {\em Applied and Computational Harmonic Analysis}, 21(1):5--30.
+
+\bibitem[Coifman et~al., 2005]{coifman2005geometric}
+Coifman, R.~R., Lafon, S., Lee, A.~B., Maggioni, M., Nadler, B., Warner, F.,
+  and Zucker, S.~W. (2005).
+\newblock Geometric diffusions as a tool for harmonic analysis and structure
+  definition of data: Diffusion maps.
+\newblock {\em Proceedings of the national academy of sciences},
+  102(21):7426--7431.
+
+\bibitem[DeGroot, 1974]{degroot1974reaching}
+DeGroot, M.~H. (1974).
+\newblock Reaching a consensus.
+\newblock {\em Journal of the American Statistical Association},
+  69(345):118--121.
+
+\bibitem[Gomez-Lievano and Patterson-Lomba, 2017]{drivers}
+Gomez-Lievano, A. and Patterson-Lomba, O. (2017).
+\newblock On the drivers of urban economic complexity and their implications.
+\newblock {\em Working Paper}.
+
+\bibitem[Gomez-Lievano et~al., 2016]{gomez2016explaining}
+Gomez-Lievano, A., Patterson-Lomba, O., and Hausmann, R. (2016).
+\newblock Explaining the prevalence, scaling and variance of urban phenomena.
+\newblock {\em Nature Human Behaviour}, 1:0012.
+
+\bibitem[Hausmann et~al., 2011]{hausman2011atlas}
+Hausmann, R., Hidalgo, C., Bustos, S., Coscia, M., Chung, S., Jimenez, J.,
+  Simoes, A., and Yildirim, M. (2011).
+\newblock The atlas of economic complexity.
+
+\bibitem[Hausmann and Hidalgo, 2011]{HausmannHidalgo2011}
+Hausmann, R. and Hidalgo, C.~A. (2011).
+\newblock The network structure of economic ouput.
+\newblock {\em Journal of Economic Growth}, 16:309--342.
+
+\bibitem[Henrich, 2015]{henrich2015secret}
+Henrich, J. (2015).
+\newblock {\em The secret of our success: how culture is driving human
+  evolution, domesticating our species, and making us smarter}.
+\newblock Princeton University Press.
+
+\bibitem[Hidalgo et~al., 2018]{hidalgo2018principle}
+Hidalgo, C.~A., Balland, P.-A., Boschma, R., Delgado, M., Feldman, M., Frenken,
+  K., Glaeser, E., He, C., Kogler, D.~F., Morrison, A., et~al. (2018).
+\newblock The principle of relatedness.
+\newblock In {\em International Conference on Complex Systems}, pages 451--457.
+  Springer.
+
+\bibitem[Hidalgo and Hausmann, 2009]{HidalgoHausmann2009}
+Hidalgo, C.~A. and Hausmann, R. (2009).
+\newblock The building blocks of economic complexity.
+\newblock {\em PNAS}, 106(25):10570--10575.
+
+\bibitem[Hidalgo et~al., 2007]{HidalgoEtAl2007}
+Hidalgo, C.~A., Klinger, B., Barabasi, A.-L., and Hausmann, R. (2007).
+\newblock {The product space conditions the development of nations}.
+\newblock {\em {Science}}, 317(5837):482--487.
+
+\bibitem[Kemp-Benedict, 2014]{kemp2014interpretation}
+Kemp-Benedict, E. (2014).
+\newblock An interpretation and critique of the method of reflections.
+\newblock In {\em Munich Personal RePEc Archive}.
+
+\bibitem[Lafon and Lee, 2006]{lafon_diffusion_2006}
+Lafon, S. and Lee, A.~B. (2006).
+\newblock Diffusion maps and coarse-graining: A unified framework for
+  dimensionality reduction, graph partitioning, and data set parameterization.
+\newblock {\em {IEEE} transactions on pattern analysis and machine
+  intelligence}, 28(9):1393--1403.
+
+\bibitem[Mealy et~al., 2017]{mealy2017new}
+Mealy, P., Farmer, J., and Teytelboym, A. (2017).
+\newblock A new interpretation of the economic complexity index.
+\newblock {\em {arXiv preprint arXiv:1711.08245}}.
+
+\bibitem[Neffke, 2017]{neffke2017coworker}
+Neffke, F. (2017).
+\newblock Coworker complementarity.
+\newblock In {\em CID Working Papers, no. 79}.
+
+\bibitem[Neffke and Henning, 2013]{Neffke2013SkillRelatedness}
+Neffke, F. and Henning, M. (2013).
+\newblock Skill relatedness and firm diversification.
+\newblock {\em Strategic Management Journal}, 34(3):297--316.
+
+\bibitem[Reshef et~al., 2011]{reshef2011detecting}
+Reshef, D.~N., Reshef, Y.~A., Finucane, H.~K., Grossman, S.~R., McVean, G.,
+  Turnbaugh, P.~J., Lander, E.~S., Mitzenmacher, M., and Sabeti, P.~C. (2011).
+\newblock Detecting novel associations in large data sets.
+\newblock {\em science}, 334(6062):1518--1524.
+
+\bibitem[Schaub et~al., 2018]{schaub2018structured}
+Schaub, M.~T., Delvenne, J.-C., Lambiotte, R., and Barahona, M. (2018).
+\newblock Structured networks and coarse-grained descriptions: a dynamical
+  perspective.
+\newblock {\em arXiv preprint arXiv:1804.06268}.
+
+\end{thebibliography}

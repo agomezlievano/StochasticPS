@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Simple model of economic complexity}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Insights}{7}{subsection.2.1}
+\contentsline {section}{\numberline {3}The structure and dynamics of collective learning}{10}{section.3}
+\contentsline {subsection}{\numberline {3.1}Implications and insights}{14}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Some comments about $\mathbf { M}(t)$}{17}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Diffusion of inputs and consensus of outputs}{19}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Product/Country Spaces of Relatedness/Similarity}{19}{subsection.3.4}
+\contentsline {section}{\numberline {4}Mathematical Definition of ECI and Properties}{21}{section.4}
+\contentsline {section}{\numberline {5}ECI as a one-dimensional embedding}{25}{section.5}
+\contentsline {section}{\numberline {6}Left is for communities, right for capabilities [IS THERE A GAME OF WORDS HERE?]}{26}{section.6}
